@@ -1,1 +1,2 @@
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KralHub123/KralHubFiles/refs/heads/main/Gecerli"))()
